@@ -1,0 +1,4 @@
+pandas>=2.0
+notebook>=7.0
+jupyter>=1.0
+nbconvert>=7.0
